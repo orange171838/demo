@@ -1,0 +1,13 @@
+{
+    "name": "orange171838/demo",
+    "description": "a test composer project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "orange171838",
+            "email": "918vpn@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
